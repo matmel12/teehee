@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+	color: white;
+	background-size: cover;
+}
+
+
+.cube1 {
+    position: absolute;
+    left: 214px;
+    top: 878px;
+}
+
+.cube3 {
+    position: absolute;
+    left: 1713px;
+    top: 490px;
+}
+
+.fluidsphere {
+    position: absolute;
+    left: 406px;
+    top: 138px;
+}
+
+.icecube {
+    position: absolute;
+    left: 994px;
+    top: 524px;
+}
+
+.sadbox {
+    position: absolute;
+    left: 1719px;
+    top: 1410px;
+}
+
+
+
+section {
+    font-family: "Lucida Console", "Courier New", monospace;
+    position: absolute;
+    left: 1095px;
+    top: 1102px;
+}

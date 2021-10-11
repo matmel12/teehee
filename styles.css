@@ -1,0 +1,28 @@
+  body {
+  background-color: black;
+	color: white;
+	background-size: cover;
+}
+
+p {
+	font-family: "Lucida Console", "Courier New", monospace;
+	text-align: center;
+	margin-left: 350px;
+	margin-right: 350px;
+}
+
+
+.bluebox{
+    position: absolute;
+    left: 923px;
+    top: 2516px;
+}
+
+
+.escape {
+    position: absolute;
+    left: 275px;
+    top: 247px;
+    width: 648px;
+    height: 286px;
+}

@@ -1,0 +1,44 @@
+body {
+	background-image:url("images/purplerain.gif");
+  background-color: black;
+	color: white;
+	background-size: cover;
+}
+
+p {
+	font-family: "Lucida Console", "Courier New", monospace;
+	text-align: center;
+	margin-left: 350px;
+	margin-right: 350px;
+}
+
+
+.bluebox{
+    position: absolute;
+    left: 923px;
+    top: 2516px;
+}
+
+
+.escape {
+    position: absolute;
+    left: 794px;
+    top: 136px;
+    width: 800;
+    height: 350;
+}
+
+
+section {
+    font-family: "Lucida Console", "Courier New", monospace;
+    position: absolute;
+    left: 1047px;
+    top: 764px;
+}
+
+h1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    position: absolute;
+    left: 819px;
+    top: 483px;
+}

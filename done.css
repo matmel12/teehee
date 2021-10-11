@@ -1,0 +1,14 @@
+body {
+	background-image: url("images/rain.gif")
+}
+
+
+h1 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    position: absolute;
+	left:;
+	top:;
+    color: white;
+    left: 1009px;
+    top: 561px;
+}
